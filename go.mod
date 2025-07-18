@@ -1,7 +1,7 @@
 module github.com/songquanpeng/one-api
 
 // +heroku goVersion go1.18
-go 1.20
+go 1.23.0
 
 require (
 	cloud.google.com/go/iam v1.1.10
@@ -98,7 +98,7 @@ require (
 	go.opentelemetry.io/otel/trace v1.24.0 // indirect
 	golang.org/x/arch v0.8.0 // indirect
 	golang.org/x/net v0.26.0 // indirect
-	golang.org/x/oauth2 v0.21.0 // indirect
+	golang.org/x/oauth2 v0.27.0 // indirect
 	golang.org/x/sync v0.7.0 // indirect
 	golang.org/x/sys v0.21.0 // indirect
 	golang.org/x/text v0.16.0 // indirect
